@@ -1,6 +1,10 @@
 ## Python
 
-### Instalação
+### Menu
+* Converter áudio em texto - [scripts/converterAudioParaTextos](./scripts/converterAudioParaTextos/)
+
+
+#### Instalação
 > Ambiente Linux/GNU
 
 * abrir um terminal
